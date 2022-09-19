@@ -12,3 +12,19 @@
 Console.Clear(); // очищение консоли
 
 string[] array = {"hello", "2", "world", ":-)"}; // задали строковый массив
+
+CosnolePrint(array); // вызов метода вывода массива на экран
+Console.Write(" -> ");
+
+//////////////////////////////////////////////////////////////////////////
+// метод вывода массива на экран
+void CosnolePrint(string[] arr)
+{
+    Console.Write("[");
+    for(int i = 0; i < arr.Length -1; i ++)
+    {
+        Console.Write($"{arr[i]}, ");
+    }
+    Console.Write(arr[arr.Length - 1]);
+    Console.Write("]");
+}
