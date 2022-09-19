@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\GB\Yziki_Prog\FirstPartKontr\bin\Debug\net6.0\FirstPartKontr.exe
+C:\Users\admin\Desktop\GB\Yziki_Prog\FirstPartKontr\bin\Debug\net6.0\FirstPartKontr.deps.json
+C:\Users\admin\Desktop\GB\Yziki_Prog\FirstPartKontr\bin\Debug\net6.0\FirstPartKontr.runtimeconfig.json
+C:\Users\admin\Desktop\GB\Yziki_Prog\FirstPartKontr\bin\Debug\net6.0\FirstPartKontr.dll
+C:\Users\admin\Desktop\GB\Yziki_Prog\FirstPartKontr\bin\Debug\net6.0\FirstPartKontr.pdb
+C:\Users\admin\Desktop\GB\Yziki_Prog\FirstPartKontr\obj\Debug\net6.0\FirstPartKontr.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\GB\Yziki_Prog\FirstPartKontr\obj\Debug\net6.0\FirstPartKontr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\GB\Yziki_Prog\FirstPartKontr\obj\Debug\net6.0\FirstPartKontr.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\GB\Yziki_Prog\FirstPartKontr\obj\Debug\net6.0\FirstPartKontr.AssemblyInfo.cs
+C:\Users\admin\Desktop\GB\Yziki_Prog\FirstPartKontr\obj\Debug\net6.0\FirstPartKontr.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\GB\Yziki_Prog\FirstPartKontr\obj\Debug\net6.0\FirstPartKontr.dll
+C:\Users\admin\Desktop\GB\Yziki_Prog\FirstPartKontr\obj\Debug\net6.0\refint\FirstPartKontr.dll
+C:\Users\admin\Desktop\GB\Yziki_Prog\FirstPartKontr\obj\Debug\net6.0\FirstPartKontr.pdb
+C:\Users\admin\Desktop\GB\Yziki_Prog\FirstPartKontr\obj\Debug\net6.0\FirstPartKontr.genruntimeconfig.cache
+C:\Users\admin\Desktop\GB\Yziki_Prog\FirstPartKontr\obj\Debug\net6.0\ref\FirstPartKontr.dll
